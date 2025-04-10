@@ -1,3 +1,3 @@
-# CourseDownloader
+# courseDownloader
 
 Python automatic downloader for Telecommunications 2 course pdfs
